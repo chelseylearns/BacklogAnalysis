@@ -3,7 +3,7 @@ title: "EXN NAM Backlog"
 format: 
   dashboard:
     nav-buttons: [linkedin]
-logo: "/Users/chelseyharper/Desktop/exclusive networks/picture3.png"
+logo: "picture3.png"
 theme: 
   light: [flatly]
   dark: [sandstone-dark]
